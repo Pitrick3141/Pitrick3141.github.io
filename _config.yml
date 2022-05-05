@@ -44,8 +44,10 @@ content:
     content:
       - layout: left
         title: Bishop Allen Academy
+        link: https://www.tcdsb.org/schools/BISHOPALLEN/Pages/default.aspx
+        link_text: School Website
         caption: 2021 - Now
-        sub_title: High School
+        sub_title: High School Grade 10 - 12
         quote: >
           Bishop Allen is an excellent educational setting for the highly motivated, success-oriented student who enjoys learning. Our school motto is GAUDETE IN DOMINO – Rejoice in the Lord. Bishop Allen Academy we strive to be a welcoming community that daily celebrates our calling to rejoice in the Lord. 
         description: | # this will include new lines to allow paragraphs
@@ -55,8 +57,10 @@ content:
 
       - layout: left
         title: Northeast Yucai Foreign Language School
+        link: https://www.ycwgy.com/
+        link_text: School Website
         caption: 2017 - 2021
-        sub_title: High School
+        sub_title: High School Grade 7 - 10
         quote: >
           Northeast Yucai Foreign Language School is a Sino-foreign school jointly established in 1998 by Northeast Yucai School and Academy of Kansai Language School in Japan. It has 31 classes of junior and senior middle school, over 1200 students and a total of nearly a hundred Chinese and foreign teachers.
         description: | # this will include new lines to allow paragraphs
@@ -77,11 +81,11 @@ content:
       - 2020 National English Proficiency Test for Secondary School Students - **National First Prize**
 
       Awards & Achievements achieved in Canada:
-      - 2021 CEMC Euclid - **Distinction / Honor Roll (83/100)**
-      - 2021 CEMC Cayley - **Distinction / Honor Roll Group III (139/150)**
-      - 2021 CEMC CCC Junior - **Distinction / Honor Roll Group I (75/75)**
+      - 2021 CEMC Euclid - **Distinction / [Honor Roll](https://cemc.uwaterloo.ca/contests/past_contests/2021/2021EuclidResults.pdf) (83/100)**
+      - 2021 CEMC Cayley - **Distinction / [Honor Roll](https://cemc.uwaterloo.ca/contests/past_contests/2021/2021CayleyResults.pdf) Group III (139/150)**
+      - 2021 CEMC CCC Junior - **Distinction / [Honor Roll](https://cemc.uwaterloo.ca/contests/past_contests/2021/2021CCCResults.pdf) Group I (75/75)**
       - 2021 American Regions Mathematics League - **Distinguished Participation**
-      - 2022 CEMC Fermat - **Distinction / Honor Roll Group III**
+      - 2022 CEMC Fermat - **Distinction / [Honor Roll](https://cemc.uwaterloo.ca/contests/past_contests/2022/2022FermatResults.pdf) Group III**
       - 2022 International Mathematical Modeling Challenge - **Honorable Mention**
 
       Other Academic Achievements:
