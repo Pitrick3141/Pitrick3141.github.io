@@ -21,10 +21,6 @@ facebook_username: Yichen3141
 instagram_username: yichen314159
 
 # Additional icon links
-additional_links:
-- title: My Blog Link
-  icon: fas fa-blog
-  url: https://pitrick.tk
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -33,9 +29,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Yichen Wang. I am a Grade 11 international student in Canada. I am interested in computer science, website design and game development.
+  Hi, my name is Yichen Wang. I am 17 years old and I am from China. I am currently studying as a Grade 11 international student in Canada. I am interested in computer science, website design and game development.
 
   I am most skilled in: <mark>Algorithm</mark> and <mark>Mathematics</mark>
+
+  This personal CV page is running on <mark>Github Pages</mark> and last updated on <mark>May 5, 2022</mark>
 
 content:
 
@@ -72,7 +70,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       I have attained several Academic Awards and Achievements both in China and Canada.
-      Awards & Achievements achieved in China:
+
+      Awards & Achievements achieved attained in China:
       - 2018 National Mathematics Innovative Application Contest - **Provincial First Prize**
       - 2019 CCF Certified Software Professional Junior - **First Prize**
       - 2019 CCF Certified Software Professional Senior - **Second Prize**
@@ -80,7 +79,7 @@ content:
       - 2020 NSDA Public Forum Debate High School Div. Regional Championship - **Quarterfinalist**
       - 2020 National English Proficiency Test for Secondary School Students - **National First Prize**
 
-      Awards & Achievements achieved in Canada:
+      Awards & Achievements achieved attained in Canada:
       - 2021 CEMC Euclid - **Distinction / [Honor Roll](https://cemc.uwaterloo.ca/contests/past_contests/2021/2021EuclidResults.pdf) (83/100)**
       - 2021 CEMC Cayley - **Distinction / [Honor Roll](https://cemc.uwaterloo.ca/contests/past_contests/2021/2021CayleyResults.pdf) Group III (139/150)**
       - 2021 CEMC CCC Junior - **Distinction / [Honor Roll](https://cemc.uwaterloo.ca/contests/past_contests/2021/2021CCCResults.pdf) Group I (75/75)**
@@ -100,11 +99,10 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in computer science and Mathematics, some of my other interests and hobbies are:
+      Alongside my interests in Computer Science and Mathematics, some of my other interests and hobbies are:
       - Skiing
       - Swimming
       - Gaming
-      - Badminton
       - Video Editing
       - Writing Poetry
 
