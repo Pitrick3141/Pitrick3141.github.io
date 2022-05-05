@@ -22,7 +22,7 @@ instagram_username: yichen314159
 
 # Additional icon links
 additional_links:
-- title: pitrick.tk
+- title: My Blog Link
   icon: fas fa-blog
   url: https://pitrick.tk
 # - title: another link
@@ -43,6 +43,17 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Bishop Allen Academy
+        caption: 2021 - Now
+        sub_title: High School
+        quote: >
+          Bishop Allen is an excellent educational setting for the highly motivated, success-oriented student who enjoys learning. Our school motto is GAUDETE IN DOMINO – Rejoice in the Lord. Bishop Allen Academy we strive to be a welcoming community that daily celebrates our calling to rejoice in the Lord. 
+        description: | # this will include new lines to allow paragraphs
+          Since I came to Canada in January 2021, I have been studying in BA. I learned more and deeper about computer science and Mathematics here. I was provided lots of opportunities to improve my skills of *programming* and *video editing*.
+
+          I also participate many contests and competitions representing of BA. I am also active in contributing to my community and taking part in voluntary activities. 
+
+      - layout: left
         title: Northeast Yucai Foreign Language School
         caption: 2017 - 2021
         sub_title: High School
@@ -53,43 +64,34 @@ content:
 
           I also spent time participating in many school activities. During Grade 10 and 11, I joined and worked in Student Union in the *Department of publicity*, in responsible for *photographing* and *social media operation*
 
-      - layout: left
-        title: Bishop Allen Academy
-        caption: 2021 - Now
-        sub_title: High School
-        quote: >
-          Bishop Allen is an excellent educational setting for the highly motivated, success-oriented student who enjoys learning. Our school motto is GAUDETE IN DOMINO – Rejoice in the Lord. Bishop Allen Academy we strive to be a welcoming community that daily celebrates our calling to rejoice in the Lord. 
-        description: | # this will include new lines to allow paragraphs
-          After I came to Canada in 2021, I have been studying in BA. I learned more and deeper about computer science and Mathematics here. I was provided lots of opportunities to improve my skills of programming and video editing.
-
-          I also participate many contests and competitions representing of BA. I am also active in contributing to my community and taking part in voluntary activities. 
-
-  - title: Academic Awards & Achievement
+  - title: Academic Awards & Achievements
     layout: text
     content: | # this will include new lines to allow paragraphs
       I have attained several Academic Awards and Achievements both in China and Canada.
       Awards & Achievements achieved in China:
-      - 2018 National Mathematics Innovative Application Contest - Provincial First Prize
-      - 2019 CCF Certified Software Professional Junior - First Prize
-      - 2019 CCF Certified Software Professional Senior - Second Prize
-      - 2020 CCF Certified Software Professional Senior - First Prize
-      - 2020 NSDA Public Forum Debate High School Div. Regional Championship - Quarterfinalist
-      - 2020 National English Proficiency Test for Secondary School Students - National First Prize
+      - 2018 National Mathematics Innovative Application Contest - **Provincial First Prize**
+      - 2019 CCF Certified Software Professional Junior - **First Prize**
+      - 2019 CCF Certified Software Professional Senior - **Second Prize**
+      - 2020 CCF Certified Software Professional Senior - **First Prize**
+      - 2020 NSDA Public Forum Debate High School Div. Regional Championship - **Quarterfinalist**
+      - 2020 National English Proficiency Test for Secondary School Students - **National First Prize**
+
       Awards & Achievements achieved in Canada:
-      - 2021 CEMC Euclid - Distinction / Honor Roll (83/100)
-      - 2021 CEMC Cayley - Distinction / Honor Roll Group III (139/150)
-      - 2021 CEMC CCC Junior - Distinction / Honor Roll Group I (75/75)
-      - 2021 American Regions Mathematics League - Distinguished Participation
-      - 2022 CEMC Fermat - Distinction / Honor Roll Group III
-      - 2022 International Mathematical Modeling Challenge - Honorable Mention
+      - 2021 CEMC Euclid - **Distinction / Honor Roll (83/100)**
+      - 2021 CEMC Cayley - **Distinction / Honor Roll Group III (139/150)**
+      - 2021 CEMC CCC Junior - **Distinction / Honor Roll Group I (75/75)**
+      - 2021 American Regions Mathematics League - **Distinguished Participation**
+      - 2022 CEMC Fermat - **Distinction / Honor Roll Group III**
+      - 2022 International Mathematical Modeling Challenge - **Honorable Mention**
+
       Other Academic Achievements:
-      - 100% in Principles of Mathematics (MPM2D1)
-      - 99% in Functions (MCR3U1)
-      - 100% in Physics (SPH3U1)
-      - 100% in Advanced Functions (MHF4U1)
-      - 100% in Calculus and Vectors (MCV4U1)
-      - 99% in Introduction to Computer Studies (ICS4U1)
-      - Overall 7.5/9 in IELTS test
+      - **100%** in Principles of Mathematics (MPM2D1)
+      - **99%** in Functions (MCR3U1)
+      - **100%** in Physics (SPH3U1)
+      - **100%** in Advanced Functions (MHF4U1)
+      - **100%** in Calculus and Vectors (MCV4U1)
+      - **99%** in Introduction to Computer Studies (ICS4U1)
+      - Overall **7.5/9** in IELTS test
 
   - title: A Little More About Me
     layout: text
