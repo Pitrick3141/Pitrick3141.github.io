@@ -1,6 +1,6 @@
 # Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
+repository: Pitrick3141/Pitrick3141.github.io
+favicon: images/CV.ico
 
 # Content configuration version
 version: 2
@@ -17,40 +17,25 @@ darkmode: false
 # Social links
 twitter_username: pi_trick
 github_username:  Pitrick3141
-# stackoverflow_username: "00000001"
-# dribbble_username: 
-# facebook_username: 
-# flickr_username: 
+facebook_username: Yichen3141
 instagram_username: yichen314159
-#linkedin_username: 
-# xing_username: 
-# pinterest_username: 
-#youtube_username: UCI4-Oc0Ay_2jk5-inPujfyw
-# googleplus_username: +
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
 - title: pitrick.tk
-  icon: fas fa-globe
+  icon: fas fa-blog
   url: https://pitrick.tk
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Yichen Wang. I am currently studying in Canada. I am a high school student from Bishop Allen Academy in Etobicoke, ON. I am interested in website making and game development.
+  Hi, my name is Yichen Wang. I am a Grade 11 international student in Canada. I am interested in computer science, website design and game development.
 
-  I am most skilled in: <mark>Algorithm</mark> and <mark>Wordpress</mark>
+  I am most skilled in: <mark>Algorithm</mark> and <mark>Mathematics</mark>
 
 content:
 
@@ -64,14 +49,52 @@ content:
         quote: >
           Northeast Yucai Foreign Language School is a Sino-foreign school jointly established in 1998 by Northeast Yucai School and Academy of Kansai Language School in Japan. It has 31 classes of junior and senior middle school, over 1200 students and a total of nearly a hundred Chinese and foreign teachers.
         description: | # this will include new lines to allow paragraphs
-          I learned in NEYCFLS from Grade 7 to Grade 11 in China. It provides me with firm knowledge basis in many subjects and fields. Teachers there discovered and motivated my interest in Computer Science.
+          I studied in NEYCFLS from Grade 7 to Grade 11 in China. It provides me with firm knowledge basis in many subjects and fields. Teachers there discovered and motivated my interest in Computer Science and Mathematics.
 
-          I also spent time participating in many school activities. During Grade 10 and 11, I worked in Student Union in the *Department of publicity*, in responsible for *photographing* and *social media operation*
+          I also spent time participating in many school activities. During Grade 10 and 11, I joined and worked in Student Union in the *Department of publicity*, in responsible for *photographing* and *social media operation*
+
+      - layout: left
+        title: Bishop Allen Academy
+        caption: 2021 - Now
+        sub_title: High School
+        quote: >
+          Bishop Allen is an excellent educational setting for the highly motivated, success-oriented student who enjoys learning. Our school motto is GAUDETE IN DOMINO – Rejoice in the Lord. Bishop Allen Academy we strive to be a welcoming community that daily celebrates our calling to rejoice in the Lord. 
+        description: | # this will include new lines to allow paragraphs
+          After I came to Canada in 2021, I have been studying in BA. I learned more and deeper about computer science and Mathematics here. I was provided lots of opportunities to improve my skills of programming and video editing.
+
+          I also participate many contests and competitions representing of BA. I am also active in contributing to my community and taking part in voluntary activities. 
+
+  - title: Academic Awards & Achievement
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      I have attained several Academic Awards and Achievements both in China and Canada.
+      Awards & Achievements achieved in China:
+      - 2018 National Mathematics Innovative Application Contest - Provincial First Prize
+      - 2019 CCF Certified Software Professional Junior - First Prize
+      - 2019 CCF Certified Software Professional Senior - Second Prize
+      - 2020 CCF Certified Software Professional Senior - First Prize
+      - 2020 NSDA Public Forum Debate High School Div. Regional Championship - Quarterfinalist
+      - 2020 National English Proficiency Test for Secondary School Students - National First Prize
+      Awards & Achievements achieved in Canada:
+      - 2021 CEMC Euclid - Distinction / Honor Roll (83/100)
+      - 2021 CEMC Cayley - Distinction / Honor Roll Group III (139/150)
+      - 2021 CEMC CCC Junior - Distinction / Honor Roll Group I (75/75)
+      - 2021 American Regions Mathematics League - Distinguished Participation
+      - 2022 CEMC Fermat - Distinction / Honor Roll Group III
+      - 2022 International Mathematical Modeling Challenge - Honorable Mention
+      Other Academic Achievements:
+      - 100% in Principles of Mathematics (MPM2D1)
+      - 99% in Functions (MCR3U1)
+      - 100% in Physics (SPH3U1)
+      - 100% in Advanced Functions (MHF4U1)
+      - 100% in Calculus and Vectors (MCV4U1)
+      - 99% in Introduction to Computer Studies (ICS4U1)
+      - Overall 7.5/9 in IELTS test
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in website making and game development some of my other interests and hobbies are:
+      Alongside my interests in computer science and Mathematics, some of my other interests and hobbies are:
       - Skiing
       - Swimming
       - Gaming
