@@ -27,7 +27,7 @@ instagram_username: yichen314159
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+# about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Yichen Wang. I am currently studying as a Grade 11 international student in Canada. I am interested in computer science, website design and game development.
 
@@ -43,7 +43,7 @@ content:
         link: https://www.tcdsb.org/schools/BISHOPALLEN/Pages/default.aspx
         link_text: School Website
         caption: Feb 2021 - Now
-        sub_title: High School Grade 10 - 12
+        sub_title: High School Grade 10 - 11
         quote: >
           Bishop Allen is an excellent educational setting for the highly motivated, success-oriented student who enjoys learning. Our school motto is GAUDETE IN DOMINO – Rejoice in the Lord. Bishop Allen Academy we strive to be a welcoming community that daily celebrates our calling to rejoice in the Lord. 
         description: | # this will include new lines to allow paragraphs
