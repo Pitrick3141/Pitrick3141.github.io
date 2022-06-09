@@ -8,8 +8,8 @@ version: 2
 # Personal info
 name: Yichen Wang
 title: Student
-email: mail@yichen.ml
-website: pitrick.tk
+email: contact@pitrick.link
+website: blog.pitrick.link
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -70,11 +70,13 @@ content:
       I have attained several Academic Awards and Achievements both in China and Canada.
 
       Awards & Achievements achieved attained in Canada:
-      - 2022 [CEMC](https://www.cemc.uwaterloo.ca/about-us/about-us.html) Euclid - **Distinction (84/100)**
+      - 2022 [American Regions Mathematics League](https://www.arml.com/) - **Distinguished Participation**
+      - 2022 [CEMC](https://www.cemc.uwaterloo.ca/about-us/about-us.html) Hypatia - **Distinction**
+      - 2022 CEMC Euclid - **Distinction (84/100)**
       - 2022 [International Mathematical Modeling Challenge](https://www.immchallenge.org/Pages/About.html) - **Honorable Mention**
       - 2022 CEMC Fermat - **Distinction / [Honor Roll](https://cemc.uwaterloo.ca/contests/past_contests/2022/2022FermatResults.pdf) Group III (138/150)**
       - 2021 CEMC CSMC - **Distinction**
-      - 2021 [American Regions Mathematics League](https://www.arml.com/) - **Distinguished Participation**
+      - 2021 American Regions Mathematics League - **Distinguished Participation**
       - 2021 CEMC CCC Junior - **Distinction / [Honor Roll](https://cemc.uwaterloo.ca/contests/past_contests/2021/2021CCCResults.pdf) Group I (75/75)**
       - 2021 CEMC Cayley - **Distinction / [Honor Roll](https://cemc.uwaterloo.ca/contests/past_contests/2021/2021CayleyResults.pdf) Group III (139/150)**
       - 2021 CEMC Euclid - **Distinction / [Honor Roll](https://cemc.uwaterloo.ca/contests/past_contests/2021/2021EuclidResults.pdf) (83/100)**
