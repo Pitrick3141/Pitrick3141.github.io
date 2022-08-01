@@ -29,7 +29,7 @@ instagram_username: yichen314159
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+# about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Yichen Wang. I am currently studying as a Grade 11 international student in Canada. I am interested in computer science, website design and game development.
 
@@ -45,7 +45,7 @@ content:
         link: https://www.tcdsb.org/schools/BISHOPALLEN/Pages/default.aspx
         link_text: School Website
         caption: Feb 2021 - Now
-        sub_title: High School Grade 10 - 12
+        sub_title: High School Grade 10 - 11
         quote: >
           Bishop Allen is an excellent educational setting for the highly motivated, success-oriented student who enjoys learning. Our school motto is GAUDETE IN DOMINO – Rejoice in the Lord. Bishop Allen Academy we strive to be a welcoming community that daily celebrates our calling to rejoice in the Lord. 
         description: | # this will include new lines to allow paragraphs
@@ -73,7 +73,9 @@ content:
 
       Awards & Achievements achieved attained in Canada:
       - 2022 [U of W](https://uwaterloo.ca/chemistry/about-chemistry/community-outreach/chemistry-high-school-exams) Avogadro - **Distinction (81.41%) / National Top 5%**
-      - 2022 [CEMC](https://www.cemc.uwaterloo.ca/about-us/about-us.html) Euclid - **Distinction (84/100) / Top 3%**
+      - 2022 [American Regions Mathematics League](https://www.arml.com/) - **Distinguished Participation**
+      - 2022 [CEMC](https://www.cemc.uwaterloo.ca/about-us/about-us.html) Hypatia - **Distinction**
+      - 2022 CEMC Euclid - **Distinction (84/100) / Top 3%**
       - 2022 [International Mathematical Modeling Challenge](https://www.immchallenge.org/Pages/About.html) - **Honorable Mention**
       - 2022 CEMC Fermat - **Distinction / [Honor Roll](https://cemc.uwaterloo.ca/contests/past_contests/2022/2022FermatResults.pdf) Group III (138/150) / Top 0.3%**
       - 2021 [American Regions Mathematics League](https://www.arml.com/) - **Distinguished Participation**
@@ -90,12 +92,12 @@ content:
       - 2018 National Mathematics Innovative Application Contest - **Provincial First Prize**
 
       Other Academic Achievements:
-      - **100%** in Principles of Mathematics (MPM2D1) (Earned in Grade 10)
-      - **99%** in Functions (MCR3U1) (Earned in Grade 10)
-      - **100%** in Physics (SPH3U1) (Earned in Grade 11)
-      - **100%** in Advanced Functions (MHF4U1) (Earned in Grade 11)
-      - **100%** in Calculus and Vectors (MCV4U1) (Earned in Grade 11)
       - **99%** in Introduction to Computer Studies (ICS4U1) (Earned in Grade 11)
+      - **100%** in Calculus and Vectors (MCV4U1) (Earned in Grade 11)
+      - **100%** in Advanced Functions (MHF4U1) (Earned in Grade 11)
+      - **100%** in Physics (SPH3U1) (Earned in Grade 11)
+      - **99%** in Functions (MCR3U1) (Earned in Grade 10)
+      - **100%** in Principles of Mathematics (MPM2D1) (Earned in Grade 10)
       - Overall **7.5/9** in [IELTS](https://www.ieltscanada.ca/WhatIsIELTS) Test (Earned in Grade 10)
 
   - title: A Little More About Me
