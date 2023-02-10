@@ -31,7 +31,7 @@ linkedin_username: yichenwang3141
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Yichen Wang. I am currently studying as a Grade 12 international student in Canada. I am interested in computer science, website design and game development.
 
-  My most skilled fields are: <mark>Algorithm</mark> and <mark>Mathematics</mark>
+  My most skilled fields are: <mark>Competitive Programming</mark> and <mark>Mathematics</mark>
 
 content:
 
@@ -40,7 +40,7 @@ content:
     content:
       - layout: left
         title: Bishop Allen Academy
-        link: https://www.tcdsb.org/schools/BISHOPALLEN/Pages/default.aspx
+        link: https://www.tcdsb.org/o/bishopallen/page/about-us
         link_text: School Website
         caption: Feb 2021 - Now
         sub_title: High School Grade 10 - 12
@@ -70,9 +70,11 @@ content:
       I have attained several Academic Awards and Achievements both in China and Canada.
 
       Awards & Achievements achieved attained in Canada:
-      - 2022 [U of W](https://uwaterloo.ca/chemistry/about-chemistry/community-outreach/chemistry-high-school-exams) Avogadro - **Distinction (81.41%) / National Top 5%**
+      - 2022 [COMC](https://cms.math.ca/competitions/comc/) - **[Award Winners](https://cms.math.ca/competitions/comc/comc2022/award-winners/) / Honorable Mentions (6th Place) in Ontario Grade 12 / Bronze Award (3rd Place) in Toronto Grade 12**
+      - 2022 [CEMC](https://www.cemc.uwaterloo.ca/about-us/about-us.html) CSMC - **Distinction / [Honor Roll](https://cemc.uwaterloo.ca/contests/past_contests/2022/2022CxMCResults.pdf) Group III (49/60) / Top 0.3%**
+      - 2022 [UWaterloo](https://uwaterloo.ca/chemistry/about-chemistry/community-outreach/chemistry-high-school-exams) Avogadro - **Distinction (81.41%) / National Top 5%**
       - 2022 [American Regions Mathematics League](https://www.arml.com/) - **Distinguished Participation**
-      - 2022 [CEMC](https://www.cemc.uwaterloo.ca/about-us/about-us.html) Hypatia - **Distinction**
+      - 2022 CEMC Hypatia - **Distinction**
       - 2022 CEMC Euclid - **Distinction (84/100) / Top 3%**
       - 2022 [International Mathematical Modeling Challenge](https://www.immchallenge.org/Pages/About.html) - **Honorable Mention**
       - 2022 CEMC Fermat - **Distinction / [Honor Roll](https://cemc.uwaterloo.ca/contests/past_contests/2022/2022FermatResults.pdf) Group III (138/150) / Top 0.3%**
@@ -90,6 +92,9 @@ content:
       - 2018 National Mathematics Innovative Application Contest - **Provincial First Prize**
 
       Other Academic Achievements:
+      - School Nomination for **[UofT Lester B. Pearson Scholarship](https://future.utoronto.ca/pearson/about/)**
+      - **100%** in Religion (HRT4M1) (Earned in Grade 12)
+      - **98%** in Physics (SPH4U1) (Earned in Grade 12)
       - **99%** in Introduction to Computer Studies (ICS4U1) (Earned in Grade 11)
       - **100%** in Calculus and Vectors (MCV4U1) (Earned in Grade 11)
       - **100%** in Advanced Functions (MHF4U1) (Earned in Grade 11)
