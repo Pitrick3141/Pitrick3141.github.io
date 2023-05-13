@@ -31,18 +31,78 @@ linkedin_username: yichenwang3141
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Yichen Wang. I am currently studying as a Grade 12 international student in Canada. I am interested in computer science, website design and game development.
 
-  My most skilled fields are: <mark>Competitive Programming</mark> and <mark>Mathematics</mark>
+  My most skilled fields are: <mark>Competitive Programming</mark>, <mark>Website Development</mark> and <mark>Game Design</mark>
 
 content:
+
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Chan's Poker Game
+        link: https://github.com/Pitrick3141/chanscasino
+        link_text: View Repo on GitHub
+        caption: Fullstack Dev/Serverless/Continuous Deployment/AWS
+        sub_title: An Online Minigame Project
+        description: | # this will include new lines to allow paragraphs
+          An online Minigame developed as my firsy fullstack development attempt. Able to signup/login and view records/statistics with cross-platform data sharing.
+          
+          **Frontend**: <mark>Vue3+Vite</mark> <mark>Element+</mark> <mark>Tailwind</mark>
+
+          **Hosting and Continuous Deployment**: <mark>AWS Amplify</mark>
+
+          **Authentication**: <mark>AWS Cognito</mark>
+
+          **Data Interface**: <mark>AWS AppSync</mark> <mark>AWS DynamoDB</mark>
+
+          *Also developed as my Grade 12 Data Management ISP in 2023.*
+
+      - layout: left
+        title: RoAdv
+        link: https://github.com/Pitrick3141/RoAdv
+        link_text: View Repo on GitHub
+        caption: Pygame/Linear Game Design
+        sub_title: A Linear Advanture Game Project
+        description: | # this will include new lines to allow paragraphs
+          An animated linear advanture game based on <mark>Pygame</mark> where players fight monsters and save the village. 
+          
+          Multiple characters available with different abilities and strategies.
+
+          *Finished in Sep 2022*
+
+      - layout: left
+        title: Pixel Dungeon
+        link: https://github.com/Pitrick3141/ISUProj
+        link_text: View Repo on GitHub
+        caption: Pygame/2D Game Design
+        sub_title: A 2D Advanture Game Project
+        description: | # this will include new lines to allow paragraphs
+          An animated 2D advanture game based on <mark>Pygame</mark> where players defeat monsters, earn coins, unlock chests and escape from the dungeon. 
+          
+          Maps in the game are fully customizable. Player has multiple attack methods.
+
+          *Finished in May 2022*
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
+       - layout: left
+        title: University of Waterloo
+        link: https://uwaterloo.ca/
+        link_text: School Website
+        caption: Sep 2023 - Future
+        sub_title: Honours Computer Science, Co-op
+        quote: >
+          In 1957, the University of Waterloo opened its doors to 74 engineering students with co-operative education as its cornerstone. Today, with more than 42,000+ students attending annually, Waterloo is #1 in Canada for experiential learning and employer-student connections. 
+        description: | # this will include new lines to allow paragraphs
+          I am admitted to University of Waterloo in May, 2023. I can't wait to start a new chapter of my life and explore more of my potentials and possibilities!
+
       - layout: left
         title: Bishop Allen Academy
-        link: https://www.tcdsb.org/o/bishopallen/page/about-us
+        link: https://www.tcdsb.org/o/bishopallen
         link_text: School Website
-        caption: Feb 2021 - Now
+        caption: Feb 2021 - Jun 2023
         sub_title: High School Grade 10 - 12
         quote: >
           Bishop Allen is an excellent educational setting for the highly motivated, success-oriented student who enjoys learning. Our school motto is GAUDETE IN DOMINO – Rejoice in the Lord. Bishop Allen Academy we strive to be a welcoming community that daily celebrates our calling to rejoice in the Lord. 
@@ -70,8 +130,9 @@ content:
       I have attained several Academic Awards and Achievements both in China and Canada.
 
       Awards & Achievements achieved attained in Canada:
+      - 2023 [CEMC](https://www.cemc.uwaterloo.ca/about-us/about-us.html) Euclid - **Distinction / [Honor Roll](https://cemc.uwaterloo.ca/contests/past_contests/2023/2023EuclidResults.pdf) Group III (90/100) / Top 0.7%**
       - 2022 [COMC](https://cms.math.ca/competitions/comc/) - **[Award Winners](https://cms.math.ca/competitions/comc/comc2022/award-winners/) / Honorable Mentions (6th Place) in Ontario Grade 12 / Bronze Award (3rd Place) in Toronto Grade 12**
-      - 2022 [CEMC](https://www.cemc.uwaterloo.ca/about-us/about-us.html) CSMC - **Distinction / [Honor Roll](https://cemc.uwaterloo.ca/contests/past_contests/2022/2022CxMCResults.pdf) Group III (49/60) / Top 0.3%**
+      - 2022 CEMC CSMC - **Distinction / [Honor Roll](https://cemc.uwaterloo.ca/contests/past_contests/2022/2022CxMCResults.pdf) Group III (49/60) / Top 0.3%**
       - 2022 [UWaterloo](https://uwaterloo.ca/chemistry/about-chemistry/community-outreach/chemistry-high-school-exams) Avogadro - **Distinction (81.41%) / National Top 5%**
       - 2022 [American Regions Mathematics League](https://www.arml.com/) - **Distinguished Participation**
       - 2022 CEMC Hypatia - **Distinction**
@@ -93,6 +154,7 @@ content:
 
       Other Academic Achievements:
       - School Nomination for **[UofT Lester B. Pearson Scholarship](https://future.utoronto.ca/pearson/about/)**
+      - **100%** in Data Management (MDM4U1) (Earned in Grade 12)
       - **100%** in Religion (HRT4M1) (Earned in Grade 12)
       - **98%** in Physics (SPH4U1) (Earned in Grade 12)
       - **99%** in Introduction to Computer Studies (ICS4U1) (Earned in Grade 11)
