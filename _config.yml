@@ -38,13 +38,14 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    
     - layout: left
-        title: QuicQ
-        link: https://devpost.com/software/quicq
-        link_text: View Repo on DevPost
-        caption: Computer Vision/Artificial Intelligence/Web development
-        sub_title: A web application for queue optimization
-        description: | # this will include new lines to allow paragraphs
+      title: QuicQ
+      link: https://devpost.com/software/quicq
+      link_text: View Repo on DevPost
+      caption: Computer Vision/Artificial Intelligence/Web development
+      sub_title: A Web Application for queue optimization
+      description: | # this will include new lines to allow paragraphs
           A website designed for organizers and customers to optimize queue experience. 
           
           <mark>Participant and winner project of 2023 Hack the North</mark>
