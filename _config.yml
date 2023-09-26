@@ -29,15 +29,40 @@ linkedin_username: yichenwang3141
 # about_title: About Me
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Yichen Wang. I am currently studying as a Grade 12 international student in Canada. I am interested in computer science, website design and game development.
+  Hi, my name is Yichen Wang. I am currently studying as a 1A Honours Computer Science Student in University of Waterloo. I am interested in artificial intelligence, web development and game development.
 
-  My most skilled fields are: <mark>Competitive Programming</mark>, <mark>Website Development</mark> and <mark>Game Design</mark>
+  My most skilled fields are: <mark>Competitive Programming</mark>, <mark>Web Development</mark> and <mark>Game Design</mark>
 
 content:
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    - layout: left
+        title: QuicQ
+        link: https://devpost.com/software/quicq
+        link_text: View Repo on DevPost
+        caption: Computer Vision/Artificial Intelligence/Web development
+        sub_title: A web application for queue optimization
+        description: | # this will include new lines to allow paragraphs
+          A website designed for organizers and customers to optimize queue experience. 
+          
+          <mark>Participant and winner project of 2023 Hack the North</mark>
+
+          Technology stack:
+
+          **Frontend**: <mark>Vue3+Vite</mark> <mark>Element+</mark> <mark>Tailwind</mark>
+
+          **Backend**: <mark>Flask</mark>
+
+          **Computer Vision**: <mark>OpenCV</mark>
+
+          **AI Data Analysis**: <mark>Genesys</mark>
+          
+          **The project is made by 4 students from University of Waterloo during the 10th Hack the North hackathon on September,2023**
+          
+          I worked on the frontend of the project. I designed the home page and a user-friendly dashboard which display real-time queue data and analysis. User can view the status of queues and the trend of them in real time.
+
       - layout: left
         title: Chan's Poker Game
         link: https://github.com/Pitrick3141/chanscasino
@@ -46,6 +71,8 @@ content:
         sub_title: An Online Minigame Project
         description: | # this will include new lines to allow paragraphs
           An online Minigame developed as my firsy fullstack development attempt. Able to signup/login and view records/statistics with cross-platform data sharing.
+
+          Technology stack:
           
           **Frontend**: <mark>Vue3+Vite</mark> <mark>Element+</mark> <mark>Tailwind</mark>
 
@@ -96,7 +123,9 @@ content:
         quote: >
           In 1957, the University of Waterloo opened its doors to 74 engineering students with co-operative education as its cornerstone. Today, with more than 42,000+ students attending annually, Waterloo is #1 in Canada for experiential learning and employer-student connections. 
         description: | # this will include new lines to allow paragraphs
-          I am admitted to University of Waterloo in May, 2023. I can't wait to start a new chapter of my life and explore more of my potentials and possibilities!
+          I am currently studying in University of Waterloo in Honours Computer Science program with Co-op. 
+          
+          I am taking all three advanced and enriched courses MATH145(Advanced Algebra), MATH147(Advanced Calculus) and CS145(Advanced Designing Functional Programs) in my first semester (1A term).
 
       - layout: left
         title: Bishop Allen Academy
@@ -129,7 +158,8 @@ content:
     content: | # this will include new lines to allow paragraphs
       I have attained several Academic Awards and Achievements both in China and Canada.
 
-      Awards & Achievements achieved attained in Canada:
+      Awards & Achievements acheved attained in Canada:
+      - 2023 [Hack the North](https://hackthenorth.com/#about) [10th iteration](https://hackthenorth2023.devpost.com/) - **Participant / [Winner Project](https://devpost.com/software/quicq)**
       - 2023 [CEMC](https://www.cemc.uwaterloo.ca/about-us/about-us.html) Euclid - **Distinction / [Honor Roll](https://cemc.uwaterloo.ca/contests/past_contests/2023/2023EuclidResults.pdf) Group III (90/100) / Top 0.7%**
       - 2023 CEMC CCC Senior - **Distinction**
       - 2022 [COMC](https://cms.math.ca/competitions/comc/) - **[Award Winners](https://cms.math.ca/competitions/comc/comc2022/award-winners/) / Honorable Mentions (6th Place) in Ontario Grade 12 / Bronze Award (3rd Place) in Toronto Grade 12**
@@ -170,11 +200,11 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in Computer Science and Mathematics, some of my other interests and hobbies are:
+      - Going to gym
       - Biking
       - Swimming
       - Gaming
       - Video Editing
-      - Writing Poetry
 
 # Footer
 footer_show_references: true
