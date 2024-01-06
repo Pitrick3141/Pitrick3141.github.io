@@ -29,9 +29,9 @@ linkedin_username: yichenwang3141
 # about_title: About Me
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Yichen Wang. I am currently studying as a 1A Honours Computer Science Student in University of Waterloo. I am interested in artificial intelligence, web development and game development.
+  Hi, my name is Yichen Wang. I am currently studying as a 2A Honours Computer Science Student in University of Waterloo. I am interested in artificial intelligence, web development and game development.
 
-  My most skilled fields are: <mark>Competitive Programming</mark>, <mark>Web Development</mark> and <mark>Game Design</mark>
+  My most skilled fields are: <mark>Algorithms</mark>, <mark>Web Development</mark> and <mark>Game Design</mark>
 
 content:
 
@@ -126,7 +126,13 @@ content:
         description: | # this will include new lines to allow paragraphs
           I am currently studying in University of Waterloo in Honours Computer Science program with Co-op. 
           
-          I am taking all three advanced and enriched courses MATH145(Advanced Algebra), MATH147(Advanced Calculus) and CS145(Advanced Designing Functional Programs) in my first semester (1A term).
+          I took all three advanced courses **MATH 145(Advanced Algebra)**, **MATH 147(Advanced Calculus 1)** and **CS 145(Advanced Designing Functional Programs)** in my first semester (1A term).
+
+          GPA for the 1A term is **4.0**
+
+          I am currently taking all three advanced course **MATH 146(Advanced Linear Algebra 1)**, **MATH 148(Advanced Calculus 2)** and **CS 146(Advanced Elementary Algorithm Design and Data Abstraction)** in my second semester (1B term).
+
+          I am also overrided into the advanced course **MATH 249(Advanced Introduction to Combinatorics)** in my 1B term.
 
       - layout: left
         title: Bishop Allen Academy
@@ -139,7 +145,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           Since I came to Canada in January 2021, I have been studying in BA. I learned more and deeper about computer science and Mathematics here. I was provided lots of opportunities to improve my skills of *programming* and *video editing*.
 
-          I also participate many contests and competitions representing of BA. I am also active in contributing to my community and taking part in voluntary activities. 
+          I also participate many contests and competitions representing of BA. I am also active in contributing to my community and taking part in voluntary activities.
+
+          I graduated from Bishop Allen Academy in 2023 with Top 6 average **99.13%**
 
       - layout: left
         title: Northeast Yucai Foreign Language School
