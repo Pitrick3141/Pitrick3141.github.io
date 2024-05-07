@@ -9,7 +9,7 @@ version: 2
 name: Yichen Wang
 title: Student
 email: contact@pitrick.link
-website: blog.pitrick.link
+website: pitrick.link
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -35,16 +35,95 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
 
+  - title: Experience # Title for the section
+      layout: list # Type of content section (list/text)
+      content:
+
+      - layout: left
+        title: Data Management Developer
+        link: https://nutralabcorp.com/
+        link_text: Visit Company Website
+        caption: Nutralab Corp., Toronto, Ontario, Canada
+        sub_title: May 2024 - Present
+        description: | # this will include new lines to allow paragraphs
+          I am currently working as a Data Management Developer at Nutralab Corp in my first Co-op work term.
+
+      - layout: left
+        title: Backend Developer Intern
+        caption: Yunqi Shanglian, Shenyang, Liaoning, China
+        sub_title: July 2023 - August 2023
+        description: | # this will include new lines to allow paragraphs
+          I built backend for a business management platform using <mark>JavaScript</mark> and <mark>REST API</mark> as a Backend Developer Intern.
+
+          I learned about integration with LLM and Generative AI through provided APIs and I used Git for version control and deployed on development environment.
+
+          Communication and Collaboration skills are also gained through the precious intership experience.
+
+      - layout: left
+        title: Research Paper Co-Author
+        link: https://ieeexplore.ieee.org/document/9776296/
+        link_text: View Paper on IEEE
+        caption: Multi-Objective Optimization based on Role in Mentorship Mode
+        sub_title: March 2022 - May 2022
+        description: | # this will include new lines to allow paragraphs
+          Implement E-CARGO model on <mark>Java</mark> and write scripts to automate data generation and process using <mark>C++</mark>
+
+          Analyze and visualize collected data using Microsoft Excel and make charts for the research paper.
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
+      - layout: left
+        title: ROwO
+        link: https://rowo.link
+        link_text: Visit ROwO Website
+        caption: Web development/Independent Fullstack Dev
+        sub_title: A platform to share idea and opinion
+        description: | # this will include new lines to allow paragraphs
+          A website designed for sharing ideas and opinions freely and anonymously.
+
+          Independently developed in spare time and is still under further development and enhancement.
+
+          Technology stack:
+
+          Build responsive web app using <mark>Vue.js</mark>, design user interface with <mark>Element Plus</mark>, <mark>CSS</mark> and <mark>Tailwind</mark>
+          
+          Host serverless backend on AWS Amplify to achieve continuous and synchronous deployment
+          
+          Integrate multi-factor Authentication system with AWS Congito and AWS AppSync for enhanced security
+          
+          Store data and media content in DynamoDB and S3 Bucket and communicate through <mark>GraphQL</mark>
+          
+          Distribute content globally through CloudFront CDN for faster response speed
+          
+          Provide secure SSL connection through HTTPS with Amazon Certificate Manager and Route53
+
+      - layout: left
+        title: iWant
+        link: https://iwant.pitrick.link/
+        link_text: View Demo Website
+        caption: Artificial Intelligence/Web development
+        sub_title: An AI powered schedule generator
+        description: | # this will include new lines to allow paragraphs
+          <mark> Participant project of 2024 United Hacks V2 Hackathon
+
+          Technology stack:
+
+          Build the backend using <mark>Python</mark> and deployed serverlessly on AWS Lambda
+          
+          Provide <mark>REST API</mark> through AWS API Gateway and use OpenAI API to process input data
+          
+          Beautify the React.js frontend and landing page using <mark>Bootstrap</mark> library for better user experience
+          
+          **The project is made by 4 students from University of Waterloo during the 2024 United Hacks V2 Hackathon on January, 2024**
 
       - layout: left
         title: QuicQ
         link: https://devpost.com/software/quicq
         link_text: View Repo on DevPost
         caption: Computer Vision/Artificial Intelligence/Web development
-        sub_title: A Web Application for queue optimization
+        sub_title: A queue optimization application based on computer vision
         description: | # this will include new lines to allow paragraphs
           A website designed for organizers and customers to optimize queue experience. 
           
@@ -52,17 +131,16 @@ content:
 
           Technology stack:
 
-          **Frontend**: <mark>Vue3+Vite</mark> <mark>Element+</mark> <mark>Tailwind</mark>
+          **Frontend**: Build and host the responsive frontend dashboard web app using <mark>Vue.js</mark> and <mark>Vite</mark>,
+          construct user friendly UI with <mark>Element+</mark> library and <mark>Tailwind</mark>, visualize data through <mark>Apache ECharts</mark>
 
-          **Backend**: <mark>Flask</mark>
+          **Backend**: Backend is build by <mark>Flask</mark> and integrated through <mark>REST API</mark>
 
-          **Computer Vision**: <mark>OpenCV</mark>
+          **Computer Vision**: Utilize <mark>OpenCV</mark> to identify and count people in a queue and upload to the backend through API
 
-          **AI Data Analysis**: <mark>Genesys</mark>
+          **AI Data Analysis**: Integrate <mark>Genesys</mark> to estimate realtime waiting time for queues
           
           **The project is made by 4 students from University of Waterloo during the 10th Hack the North hackathon on September,2023**
-          
-          I worked on the frontend of the project. I designed the home page and a user-friendly dashboard which display real-time queue data and analysis. User can view the status of queues and the trend of them in real time.
 
       - layout: left
         title: Chan's Poker Game
@@ -75,13 +153,13 @@ content:
 
           Technology stack:
           
-          **Frontend**: <mark>Vue3+Vite</mark> <mark>Element+</mark> <mark>Tailwind</mark>
+          **Frontend**: Frontend is built using <mark>Vue3+Vite</mark>, <mark>Element+</mark> and <mark>Tailwind</mark>
 
-          **Hosting and Continuous Deployment**: <mark>AWS Amplify</mark>
+          **Hosting and Continuous Deployment**: The web app is hosted on <mark>AWS Amplify</mark> and deployed continuously through Github actions.
 
-          **Authentication**: <mark>AWS Cognito</mark>
+          **Authentication**: The backend authentication is achieved by <mark>AWS Cognito</mark>, with 2FA verifications enabled.
 
-          **Data Interface**: <mark>AWS AppSync</mark> <mark>AWS DynamoDB</mark>
+          **Data Interface**: Data are integrated through <mark>AWS AppSync</mark> and stored in <mark>AWS DynamoDB</mark>
 
           *Also developed as my Grade 12 Data Management ISP in 2023.*
 
@@ -94,7 +172,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           An animated linear advanture game based on <mark>Pygame</mark> where players fight monsters and save the village. 
           
-          Multiple characters available with different abilities and strategies.
+          Multiple characters available with different abilities and strategies. There are also a variety of monsters and BOSS with unique skills.
+
+          Fully customizable game experience where the difficulty can be adjusted easily.
 
           *Finished in Sep 2022*
 
@@ -107,7 +187,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           An animated 2D advanture game based on <mark>Pygame</mark> where players defeat monsters, earn coins, unlock chests and escape from the dungeon. 
           
-          Maps in the game are fully customizable. Player has multiple attack methods.
+          Maps in the game are fully customizable. Player has multiple attack methods and full animations.
 
           *Finished in May 2022*
 
@@ -124,15 +204,9 @@ content:
         quote: >
           In 1957, the University of Waterloo opened its doors to 74 engineering students with co-operative education as its cornerstone. Today, with more than 42,000+ students attending annually, Waterloo is #1 in Canada for experiential learning and employer-student connections. 
         description: | # this will include new lines to allow paragraphs
-          I am currently studying in University of Waterloo in Honours Computer Science program with Co-op. 
-          
-          I took all three advanced courses **MATH 145(Advanced Algebra)**, **MATH 147(Advanced Calculus 1)** and **CS 145(Advanced Designing Functional Programs)** in my first semester (1A term).
+          I am currently studying in University of Waterloo in Honours Computer Science program with Co-op. I am currently doing my first Co-op work term in Nutralab Corp.
 
-          GPA for the 1A term is **4.0**
-
-          I am currently taking all three advanced course **MATH 146(Advanced Linear Algebra 1)**, **MATH 148(Advanced Calculus 2)** and **CS 146(Advanced Elementary Algorithm Design and Data Abstraction)** in my second semester (1B term).
-
-          I am also overrided into the advanced course **MATH 249(Advanced Introduction to Combinatorics)** in my 1B term.
+          Cumulative GPA: *91%*
 
       - layout: left
         title: Bishop Allen Academy
@@ -168,10 +242,13 @@ content:
       I have attained several Academic Awards and Achievements both in China and Canada.
 
       Awards & Achievements acheved attained in Canada:
+      - 2024 University of Waterloo [Faculty of Mathematics Promissory Scholarship](https://uwaterloo.ca/math/future-undergraduates/scholarships)
+      - 2024 University of Waterloo [President's Scholarship of Distinction](https://uwaterloo.ca/undergraduate-entrance-awards/awards/university-waterloo-presidents-scholarship-distinction)
+      - 2024 Excellent Academic standing and Term Distinction in 1A Term
       - 2023 [Hack the North](https://hackthenorth.com/#about) [10th iteration](https://hackthenorth2023.devpost.com/) - **Participant / [Winner Project](https://devpost.com/software/quicq)**
       - 2023 [CEMC](https://www.cemc.uwaterloo.ca/about-us/about-us.html) Euclid - **Distinction / [Honor Roll](https://cemc.uwaterloo.ca/contests/past_contests/2023/2023EuclidResults.pdf) Group III (90/100) / Top 0.7%**
       - 2023 CEMC CCC Senior - **Distinction**
-      - 2022 [COMC](https://cms.math.ca/competitions/comc/) - **[Award Winners](https://cms.math.ca/competitions/comc/comc2022/award-winners/) / Honorable Mentions (6th Place) in Ontario Grade 12 / Bronze Award (3rd Place) in Toronto Grade 12**
+      - 2022 [COMC](https://cms.math.ca/competitions/comc/) - **[Qualified](https://cms.math.ca/competitions/comc/comc2023/advancing/) for [Canadian Mathematical Olympiad](https://cms.math.ca/competitions/cmo/) (69.5/80) / [Award Winners](https://cms.math.ca/competitions/comc/comc2022/award-winners/) / Honorable Mentions (6th Place) in Ontario Grade 12 / Bronze Award (3rd Place) in Toronto Grade 12**
       - 2022 CEMC CSMC - **Distinction / [Honor Roll](https://cemc.uwaterloo.ca/contests/past_contests/2022/2022CxMCResults.pdf) Group III (49/60) / Top 0.3%**
       - 2022 [UWaterloo](https://uwaterloo.ca/chemistry/about-chemistry/community-outreach/chemistry-high-school-exams) Avogadro - **Distinction (81.41%) / National Top 5%**
       - 2022 [American Regions Mathematics League](https://www.arml.com/) - **Distinguished Participation**
@@ -193,6 +270,8 @@ content:
       - 2018 National Mathematics Innovative Application Contest - **Provincial First Prize**
 
       Other Academic Achievements:
+      - **98%** in Elementary Algorithm Design and Data Abstraction (Advanced Level) (Earned in 1B)
+      - **96%** in Designing Functional Programs (Advanced Level) (Earned in 1A)
       - School Nomination for **[UofT Lester B. Pearson Scholarship](https://future.utoronto.ca/pearson/about/)**
       - **100%** in Data Management (MDM4U1) (Earned in Grade 12)
       - **100%** in Religion (HRT4M1) (Earned in Grade 12)
@@ -209,6 +288,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in Computer Science and Mathematics, some of my other interests and hobbies are:
+      - Photographing
       - Going to gym
       - Biking
       - Swimming
