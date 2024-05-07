@@ -9,7 +9,7 @@ version: 2
 name: Yichen Wang
 title: Student
 email: contact@pitrick.link
-website: pitrick.link
+website: https://pitrick.link
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -248,7 +248,8 @@ content:
       - 2023 [Hack the North](https://hackthenorth.com/#about) [10th iteration](https://hackthenorth2023.devpost.com/) - **Participant / [Winner Project](https://devpost.com/software/quicq)**
       - 2023 [CEMC](https://www.cemc.uwaterloo.ca/about-us/about-us.html) Euclid - **Distinction / [Honor Roll](https://cemc.uwaterloo.ca/contests/past_contests/2023/2023EuclidResults.pdf) Group III (90/100) / Top 0.7%**
       - 2023 CEMC CCC Senior - **Distinction**
-      - 2022 [COMC](https://cms.math.ca/competitions/comc/) - **[Qualified](https://cms.math.ca/competitions/comc/comc2023/advancing/) for [Canadian Mathematical Olympiad](https://cms.math.ca/competitions/cmo/) (69.5/80) / [Award Winners](https://cms.math.ca/competitions/comc/comc2022/award-winners/) / Honorable Mentions (6th Place) in Ontario Grade 12 / Bronze Award (3rd Place) in Toronto Grade 12**
+      - 2023 [COMC](https://cms.math.ca/competitions/comc/) - **[Qualified](https://cms.math.ca/competitions/comc/comc2023/advancing/) for [Canadian Mathematical Olympiad](https://cms.math.ca/competitions/cmo/) (69.5/80) /
+      [Award Winners](https://cms.math.ca/competitions/comc/comc2022/award-winners/) / 6th Place in Ontario Grade 12 / Bronze Medal in Toronto Grade 12**
       - 2022 CEMC CSMC - **Distinction / [Honor Roll](https://cemc.uwaterloo.ca/contests/past_contests/2022/2022CxMCResults.pdf) Group III (49/60) / Top 0.3%**
       - 2022 [UWaterloo](https://uwaterloo.ca/chemistry/about-chemistry/community-outreach/chemistry-high-school-exams) Avogadro - **Distinction (81.41%) / National Top 5%**
       - 2022 [American Regions Mathematics League](https://www.arml.com/) - **Distinguished Participation**
@@ -270,8 +271,8 @@ content:
       - 2018 National Mathematics Innovative Application Contest - **Provincial First Prize**
 
       Other Academic Achievements:
-      - **98%** in Elementary Algorithm Design and Data Abstraction (Advanced Level) (Earned in 1B)
-      - **96%** in Designing Functional Programs (Advanced Level) (Earned in 1A)
+      - **98%** in Elementary Algorithm Design and Data Abstraction **Advanced Level** (CS146) (Earned in 1B)
+      - **96%** in Designing Functional Programs **Advanced Level** (CS145) (Earned in 1A)
       - School Nomination for **[UofT Lester B. Pearson Scholarship](https://future.utoronto.ca/pearson/about/)**
       - **100%** in Data Management (MDM4U1) (Earned in Grade 12)
       - **100%** in Religion (HRT4M1) (Earned in Grade 12)
