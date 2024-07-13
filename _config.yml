@@ -40,13 +40,13 @@ content:
     content:
 
       - layout: left
-        title: Data Management Developer
+        title: Full-Stack Software Developer
         link: https://nutralabcorp.com/
         link_text: Visit Company Website
         caption: Nutralab Corp., Toronto, Ontario, Canada
         sub_title: May 2024 - Present
         description: | # this will include new lines to allow paragraphs
-          I am currently working as a Data Management Developer at Nutralab Corp in my first Co-op work term.
+          I am currently working as a Full-Stack Software Developer at Nutralab Corp in my first Co-op work term.
 
       - layout: left
         title: Backend Developer Intern
