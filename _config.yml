@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Yichen Wang
-title: Student @ University of Waterloo | Developer @ Nutralab Corp.
+title: Student @ University of Waterloo | Full-Stack Developer @ Nutralab Corp.
 email: contact@pitrick.link
 website: https://pitrick.link
 
@@ -24,9 +24,6 @@ linkedin_username: yichenwang3141
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
-- title: Resume
-  icon: fa-regular fa-file
-  url: https://ourspace.pitrick.link/Resume.pdf
 
 # About Section
 # about_title: About Me
