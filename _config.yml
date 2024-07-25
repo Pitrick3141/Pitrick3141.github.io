@@ -24,6 +24,9 @@ linkedin_username: yichenwang3141
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
+- title: Resume
+  icon: fa-regular fa-file
+  url: https://ourspace.pitrick.link/Resume.pdf
 
 # About Section
 # about_title: About Me
@@ -46,16 +49,26 @@ content:
         caption: Nutralab Corp., Toronto, Ontario, Canada
         sub_title: May 2024 - Present
         description: | # this will include new lines to allow paragraphs
-          I am currently working as a Full-Stack Software Developer at Nutralab Corp in my first Co-op work term.
+          Developed the <mark>Vue.js</mark> Frontend of Inventory Management System for real-time inventory and transactions display, analysis and operations.
+
+          Developed the Backend of Inventory Management System using <mark>MySQL</mark> and <mark>Flask</mark> for data storage and provide APIs for other company departments.
+
+          Coordinated with other company departments and develop features that satisfies different requirements.
+
+          Integrated with <mark>Amazon Seller Central</mark> and other E-commerce platforms (<mark>Shopify</mark>, <mark>BigCommerce</mark> etc.) through APIs and perform data operations and analysis on one platform.
+
+          Implemented backup and recovery mechanisms to protect against data loss and ensure continuity of operations in the event of system failures or disasters.
+
+          Ensured overall performance and reliability of the system.
 
       - layout: left
         title: Backend Developer Intern
         caption: Yunqi Shanglian, Shenyang, Liaoning, China
         sub_title: July 2023 - August 2023
         description: | # this will include new lines to allow paragraphs
-          I built backend for a business management platform using <mark>JavaScript</mark> and <mark>REST API</mark> as a Backend Developer Intern.
+          Developed backend for a business management platform using <mark>JavaScript</mark> and <mark>REST API</mark> as a Backend Developer Intern.
 
-          I learned about integration with LLM and Generative AI through provided APIs and I used Git for version control and deployed on development environment.
+          Learned about integration with LLM and Generative AI through provided APIs and I used Git for version control and deployed on development environment.
 
           Communication and Collaboration skills are also gained through the precious intership experience.
 
