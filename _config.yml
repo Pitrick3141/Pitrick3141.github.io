@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Yichen Wang
-title: Student @ University of Waterloo | Full-Stack Developer @ Nutralab Corp.
+title: Student @ University of Waterloo
 email: contact@pitrick.link
 website: https://pitrick.link
 
@@ -44,7 +44,7 @@ content:
         link: https://nutralabcorp.com/
         link_text: Visit Company Website
         caption: Nutralab Corp., Toronto, Ontario, Canada
-        sub_title: May 2024 - Present
+        sub_title: May 2024 - August 2024
         description: | # this will include new lines to allow paragraphs
           Developed the <mark>Vue.js</mark> Frontend of Inventory Management System for real-time inventory and transactions display, analysis and operations.
 
