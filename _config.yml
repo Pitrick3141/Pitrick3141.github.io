@@ -29,9 +29,10 @@ linkedin_username: yichenwang3141
 # about_title: About Me
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Yichen Wang. I am currently studying as a 2A Honours Computer Science Student in University of Waterloo. I am interested in artificial intelligence, web development and game development.
+  Hi, my name is Yichen Wang. I am currently studying as a Exchange Student in University of Hong Kong. 
+  My base university is University of Waterloo in Canada, where I am studying in Honours Computer Science program with Co-op.
 
-  My most skilled fields are: <mark>Algorithms</mark>, <mark>Web Development</mark> and <mark>Game Design</mark>
+  My most skilled fields are: <mark>Algorithms</mark>, <mark>Full-Stack Development</mark> and <mark>LLM</mark>
 
 content:
 
@@ -40,11 +41,28 @@ content:
     content:
 
       - layout: left
+        title: CIP Team Full-Stack Developer
+        link: https://nutralabcorp.com/
+        link_text: Visit Company Website
+        caption: Nutralab Canada Corp., Toronto, Ontario, Canada
+        sub_title: May 2025 - Present
+        description: | # this will include new lines to allow paragraphs
+          Develop software integrated with ERP to simplify and optimize the workflow in Purchasing and Inventory Control Process.
+          
+          Maintain the previous Inventory Management System and develop new features on demand.
+          
+          Coordinate with other company departments and develop features that satisfies different requirements.
+          
+          Implement backup and recovery mechanisms to protect against data loss and ensure continuity of operations in the event of system failures or disasters.
+          
+          Ensure overall performance and reliability of existing system.
+
+      - layout: left
         title: Full-Stack Software Developer
         link: https://nutralabcorp.com/
         link_text: Visit Company Website
-        caption: Nutralab Corp., Toronto, Ontario, Canada
-        sub_title: May 2024 - August 2024
+        caption: Nutralab Canada Corp., Toronto, Ontario, Canada
+        sub_title: May 2024 - May 2025
         description: | # this will include new lines to allow paragraphs
           Developed the <mark>Vue.js</mark> Frontend of Inventory Management System for real-time inventory and transactions display, analysis and operations.
 
@@ -89,9 +107,9 @@ content:
         link: https://rowo.link
         link_text: Visit ROwO Website
         caption: Web development/Independent Fullstack Dev
-        sub_title: A platform to share idea and opinion
+        sub_title: A integrated utility platform where I test out my inspiration
         description: | # this will include new lines to allow paragraphs
-          A website designed for sharing ideas and opinions freely and anonymously.
+          A website designed for realizing my inspiration and ideas, where I can test out new technologies and frameworks.
 
           Independently developed in spare time and is still under further development and enhancement.
 
@@ -99,11 +117,9 @@ content:
 
           Build responsive web app using <mark>Vue.js</mark>, design user interface with <mark>Element Plus</mark>, <mark>CSS</mark> and <mark>Tailwind</mark>
           
-          Host serverless backend on AWS Amplify to achieve continuous and synchronous deployment
+          Integrate multi-factor Authentication system with AWS Congito and SES
           
-          Integrate multi-factor Authentication system with AWS Congito and AWS AppSync for enhanced security
-          
-          Store data and media content in DynamoDB and S3 Bucket and communicate through <mark>GraphQL</mark>
+          Store data and media content securely in DynamoDB and S3 Bucket
           
           Distribute content globally through CloudFront CDN for faster response speed
           
@@ -206,17 +222,26 @@ content:
     content:
 
       - layout: left
+        title: University of Hong Kong
+        link: https://www.hku.hk/
+        link_text: School Website
+        caption: Sep 2025 - Dec 2025 (Expected)
+        sub_title: HKUWW, BEng in Computer Science
+        quote: >
+          The University of Hong Kong, Asia's Global University, delivers impact through internationalisation, innovation and interdisciplinarity. It attracts and nurtures global scholars through excellence in research, teaching and learning, and knowledge exchange. 
+        description: | # this will include new lines to allow paragraphs
+          I am currently studying in BEng(Computer Science) in HKUWW program as an exchange student. Here I am taking courses in Computer Science and Mathematics,  mainly focused in *Machine Learning* and *Computer Vision*.
+
+      - layout: left
         title: University of Waterloo
         link: https://uwaterloo.ca/
         link_text: School Website
-        caption: Sep 2023 - Future
-        sub_title: Honours Computer Science, Co-op
+        caption: Sep 2023 - Apr 2028 (Expected)
+        sub_title: BMath in Honours Computer Science, Co-op Program
         quote: >
           In 1957, the University of Waterloo opened its doors to 74 engineering students with co-operative education as its cornerstone. Today, with more than 42,000+ students attending annually, Waterloo is #1 in Canada for experiential learning and employer-student connections. 
         description: | # this will include new lines to allow paragraphs
-          I am currently studying in University of Waterloo in Honours Computer Science program with Co-op. I am currently doing my first Co-op work term in Nutralab Corp.
-
-          Cumulative GPA: *91%*
+          I am currently studying in Honours Computer Science with Artificial Intelligence specialization, double majored in Honours Combinatorics and Optimization. I am also enrolled in Co-op program.
 
       - layout: left
         title: Bishop Allen Academy
@@ -251,7 +276,8 @@ content:
     content: | # this will include new lines to allow paragraphs
       I have attained several Academic Awards and Achievements both in China and Canada.
 
-      Awards & Achievements acheved attained in Canada:
+      Awards & Achievements attained in Canada:
+      - 2025 Excellent Academic standing and Term Distinction in 2B Term
       - 2025 Excellent Academic standing and Term Distinction in 2A Term
       - 2024 Excellent Academic standing and Term Distinction in 1B Term
       - 2024 University of Waterloo [Faculty of Mathematics Promissory Scholarship](https://uwaterloo.ca/math/future-undergraduates/scholarships)
@@ -274,7 +300,7 @@ content:
       - 2021 CEMC Cayley - **Distinction / [Honor Roll](https://cemc.uwaterloo.ca/contests/past_contests/2021/2021CayleyResults.pdf) Group III (139/150) / Top 2%**
       - 2021 CEMC Euclid - **Distinction / [Honor Roll](https://cemc.uwaterloo.ca/contests/past_contests/2021/2021EuclidResults.pdf) (83/100) / Top 4%**
 
-      Awards & Achievements achieved attained in China:
+      Awards & Achievements attained in China:
       - 2020 National English Proficiency Test for Secondary School Students - **National First Prize**
       - 2020 [NSDA](https://www.facebook.com/ChinaNSDA/) Public Forum Debate High School Div. Regional Championship - **Quarterfinalist**
       - 2020 [CCF](https://www.ccf.org.cn/en/About_CCF/About_CCF/) Certified Software Professional Senior - **First Prize**
@@ -301,12 +327,12 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in Computer Science and Mathematics, some of my other interests and hobbies are:
+      - Traveling
       - Photographing
       - Going to gym
       - Biking
       - Swimming
       - Gaming
-      - Video Editing
 
 # Footer
 footer_show_references: true
