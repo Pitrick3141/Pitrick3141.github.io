@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Yichen Wang
-title: Student @ University of Waterloo
+title: Student @ UWaterloo & HKU, Programmer, Traveller, Photographer
 email: contact@pitrick.link
 website: https://pitrick.link
 
@@ -30,7 +30,7 @@ linkedin_username: yichenwang3141
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Yichen Wang. I am currently studying as a Exchange Student in University of Hong Kong. 
-  My base university is University of Waterloo in Canada, where I am studying in Honours Computer Science program with Co-op.
+  My base university is University of Waterloo in Canada, where I am studying in Honours Computer Science program with Co-op, specialized in Artificial Intelligence and double majored in Combinatorics and Optimization.
 
   My most skilled fields are: <mark>Algorithms</mark>, <mark>Full-Stack Development</mark> and <mark>LLM</mark>
 
